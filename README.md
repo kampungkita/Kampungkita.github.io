@@ -2,7 +2,7 @@
 <!--
 Template Name: Academic Education V2
 Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.os-templates.com/
+Author URI: http://www.kampungkita.github.io/
 Licence: Free to use under our free template licence terms
 Licence URI: http://www.os-templates.com/template-terms
 -->
