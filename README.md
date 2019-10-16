@@ -24,8 +24,8 @@ Licence URI: http://www.os-templates.com/template-terms
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Contact Us</a></li>
-        <li><a href="#">A - Z Index</a></li>
-        <li><a href="#">Nama Login</a></li>
+        <li><a href="#">Galeri</a></li>
+        <li><a href="#">pemkam</a></li>
         <li><a href="#">NIK Login</a></li>
       </ul>
     </nav>
