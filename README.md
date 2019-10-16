@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<!--
-Template Name: Academic Education V2
-Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.kampungkita.github.io/
-Licence: Free to use under our free template licence terms
-Licence URI: http://www.os-templates.com/template-terms
--->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+
 <html>
 <head>
 <title>Academic Education V2</title>
@@ -24,9 +20,9 @@ Licence URI: http://www.os-templates.com/template-terms
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">Contact Us</a></li>
-        <li><a href="#">Galeri</a></li>
-        <li><a href="#">pemkam</a></li>
-        <li><a href="#">NIK Login</a></li>
+        <li><a href="#">A - Z Index</a></li>
+        <li><a href="#">Student Login</a></li>
+        <li><a href="#">Staff Login</a></li>
       </ul>
     </nav>
     <!-- ################################################################################################ --> 
@@ -66,7 +62,7 @@ Licence URI: http://www.os-templates.com/template-terms
         <li><a class="drop" href="#">Pages</a>
           <ul>
             <li><a href="pages/gallery.html">Gallery</a></li>
-            <li><a href="pages/portfolio.html">Penduduk</a></li>
+            <li><a href="pages/portfolio.html">Portfolio</a></li>
             <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Sidebar Left</a></li>
             <li><a href="pages/sidebar-left-2.html">Sidebar Left 2</a></li>
@@ -357,7 +353,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <div class="wrapper row5">
   <div id="copyright" class="clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">kampungkita.github.io</a></p>
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
     <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
     <!-- ################################################################################################ --> 
   </div>
