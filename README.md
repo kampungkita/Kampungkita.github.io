@@ -94,18 +94,18 @@
 							<div id="divlogo-txt">
 								<div class="intube">
 									<div id="siteTitle">
-										<h1><p style="color:lime">Desa Gembongan</h1>
-										<h2><p style="color:yellow">Kecamatan Sigaluh<br />
-										Kabupaten Banjarnegara</h2>
-										<h3><p style="color:white">Jln. Raya Sigaluh KM 10, Banjarnegara Kode Pos 53481   Email : pemdesgembongan@gmail.com</h3>
+										<h1><p style="color:lime">Kampung Kuto Winangun</h1>
+										<h2><p style="color:yellow">Kecamatan Sendang Agung<br />
+										Kabupaten Lampung Tengah</h2>
+										<h3><p style="color:white">Jln. sudirman No. 01 komplek Perkantoran Pemerintah Kampung Kuto Winangun Kode Pos 34174   Email : pemkamkutowinangun@gmail.com</h3>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div id="divlogo-img">
 							<div class="intube">
-								<a href="http://gembongan-banjarnegara.desa.id/index.php/first/">
-								<img src="http://gembongan-banjarnegara.desa.id/assets/files/logo/gkk.png" alt="Gembongan"/>
+								<a href="http://kampungkita.github.io/index.php/first/">
+								<img src="http://kampungkita.github.io/assets/files/logo/gkk.png" alt="Kuto Winangun"/>
 								</a>
 							</div>
 						</div>
@@ -116,15 +116,47 @@
 	<script type="text/javascript">
 	sts_bs("jwscroller2e8e",[20080623,"images/","","blank.gif",3,1,1,1,"","left",3,1,962,0,0,0,0,0,0,0,1,27,0,"",-1,10],["none",1]);
 	sts_tbd([1],["double",2,"#0099CC #FFFFFF",5,"round_tl.gif","round_tr.gif","round_br.gif","round_bl.gif","transparent","round_t.gif","repeat","transparent","round_r.gif","repeat","transparent","round_b.gif","repeat","transparent","round_l.gif","repeat"]);
-		sts_ai("i0",[0,"SELAMAT DATANG! di Website Resmi Desa Gembongan, Sigaluh, Banjarnegara. Semoga bermanfaat.","","_self","",0,0,"center"],["transparent","bold 10pt Consolas","#00ff00","none","bold 10pt Consolas","#00ff00","none"]);
+		sts_ai("i0",[0,"SELAMAT DATANG! di Website Resmi Kampung Kita, Kampung Kuto Winangun, Sendang Agung, Lampung Tengah.","","_self","",0,0,"center"],["transparent","bold 10pt Consolas","#00ff00","none","bold 10pt Consolas","#00ff00","none"]);
 		sts_es();
 	</script>
 </div>						
 					<div id="mainmenu">
 						<div id='cssmenu'>
 	<ul id="global-nav" class="main">
-		<li><a href="http://gembongan-banjarnegara.desa.id/index.php/first">Beranda</a></li>
-			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/1'>Berita</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/33'>Berita Desa</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/39'>Berita Nasional</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/53'>Berita Daerah</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/2'>Produk</a></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/4'>Agenda</a></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/5'>Peraturan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/54'>Perdes Tahun 2015</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/55'>Perdes Tahun 2016</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/56'>Perdes Tahun 2017</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/6'>Laporan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/57'>PBB (Pajak Bumi & Bangunan)</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/8'>Panduan Layanan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/32'>Layanan Akte Kelahiran</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/31'>Layanan KK</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/30'>Layanan KTP</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/34'>Layanan Akte Perkawinan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/35'>Layanan Akte Kematian</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/58'>Layanan Pindah Penduduk</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/59'>Layanan Adopsi/Pengangkatan Anak</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/60'>Layanan SKCK</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/18'>Teknologi</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/36'>Tanaman Sistem Hidroponik</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/37'>Budidaya Kelinci</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/19'>Keagamaan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/61'>Peringatan Hari Besar Islam</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/62'>Tausyiah</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/27'>Pemberdayaan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/38'>Prospek cerah ternak kambing sebagai bisnis</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/40'>Info Desa</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/41'>Pembangunan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/42'>Pertanian</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/43'>Peternakan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/44'>Pendidikan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/45'>Kesehatan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/46'>Sosial Budaya</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/47'>Kesra</a></li></ul></li>		</ul>
+		<li><a href="http://kampungkita.github.io/index.php/first">Beranda</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/kategori/1'>Berita</a><ul>
+			<li><a href='http://kampungkita.github.io/index.php/first/kategori/33'>Berita Desa</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/kategori/39'>Berita Nasional</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/kategori/53'>Berita Daerah</a></li></ul></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/2'>Produk</a></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/4'>Agenda</a></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/5'>Peraturan</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/54'>Perdes Tahun 2015</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/55'>Perdes Tahun 2016</a></li>
+	<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/kategori/56'>Perdes Tahun 2017</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/kategori/6'>Laporan</a><ul>
+<li><a href='http://kampungkita.github.io/index.php/first/kategori/57'>PBB (Pajak Bumi & Bangunan)</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/kategori/8'>Panduan Layanan</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/32'>Layanan Akte Kelahiran</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/31'>Layanan KK</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/30'>Layanan KTP</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/34'>Layanan Akte Perkawinan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/35'>Layanan Akte Kematian</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/58'>Layanan Pindah Penduduk</a></li>
+<li><a href='http://kampungkita.github.io/index.php/first/kategori/59'>Layanan Adopsi/Pengangkatan Anak</a></li>
+	<li><a href='http://kampungkita.github.io/index.php/first/kategori/60'>Layanan SKCK</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/kategori/18'>Teknologi</a><ul>
+	<li><a href='http://kampungkita.github.io/index.php/first/kategori/36'>Tanaman Sistem Hidroponik</a></li>
+	<li><a href='http://kampungkita.github.io/index.php/first/kategori/37'>Budidaya Kelinci</a></li></ul></li>		<li><a href='http://kampungkita.github.io/index.php/first/kategori/19'>Keagamaan</a><ul>
+	<li><a href='http://kampungkita.github.io/index.php/first/kategori/61'>Peringatan Hari Besar Islam</a></li>
+	<li><a href='http://kampungkita.github.io/index.php/first/kategori/62'>Tausyiah</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/kategori/27'>Pemberdayaan</a><ul>
+<li><a href='http://kampungkita.github.io/index.php/first/kategori/38'>Prospek cerah ternak kambing sebagai bisnis</a></li></ul></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/40'>Info Desa</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/41'>Pembangunan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/42'>Pertanian</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/43'>Peternakan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/44'>Pendidikan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/45'>Kesehatan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/46'>Sosial Budaya</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/kategori/47'>Kesra</a></li></ul></li>		
+	</ul>
 </div>
 
 					</div>
@@ -136,34 +168,34 @@
 						
 	<div class="box box-danger">
 		<div class="box-header with-border">
-			<h3 class="box-title"><a href="http://gembongan-banjarnegara.desa.id/index.php/first/artikel/197">Penyaluran Bantuan lanjut Usia Terlantar</a></h3>
-			<div class="pull-right small">DANITA AGUSTIANA, 04 Oktober 2019 12:48:05 WIB</div>
+			<h3 class="box-title"><a href="http://kampungkita.github.ioindex.php/first/artikel/197">Penyaluran Bantuan lanjut Usia Terlantar</a></h3>
+			<div class="pull-right small">Dwi Setyawan, 04 Oktober 2019 12:48:05 WIB</div>
 		</div>
 		<div class="box-body">
-				<a class="group2" href="http://gembongan-banjarnegara.desa.id/assets/files/artikel/sedang_1570168085IMG-20191002-WA0022.jpg" title="">
-				<img width="654" src="http://gembongan-banjarnegara.desa.id/assets/files/artikel/sedang_1570168085IMG-20191002-WA0022.jpg" /></a><p>Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak Kabupaten Banjarnegara telah melaksanakan kegiatan bantuan sosial kegiatan Asistensi Lanjut Usia Terlantar (ASLUT) Tahun 2019 Sebanyak 20 orang bertempat Di Aula Balai Desa Gembongan Pada Hari Rabu 20 Oktober 2019 Jam 10.00 s/d Selesai.</p>
+				<a class="group2" href="http://kampungkita.github.io/assets/files/artikel/sedang_1570168085IMG-20191002-WA0022.jpg" title="">
+				<img width="654" src="http://kampungkita.github.io/assets/files/artikel/sedang_1570168085IMG-20191002-WA0022.jpg" /></a><p>Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak Kabupaten Lampung Tengah telah melaksanakan kegiatan bantuan sosial kegiatan Asistensi Lanjut Usia Terlantar (ASLUT) Tahun 2019 Sebanyak 20 orang bertempat Di Aula Balai Kampung Kuto Winangun Pada Hari Rabu 20 September 2019 Jam 10.00 s/d Selesai.</p>
 <p>&nbsp;</p>
 <p>NAMA DAFTAR PENERIMA SEBAGAI BERIKUT :</p>
-<p>1. WALIMAH RT 01 RW 01</p>
-<p>2. KENI MUHENI RT 01 RW 01</p>
-<p>3. MANGUN DIHARJO RT 03 RW 01</p>
-<p>4. KIRAM MIARTO RT 03 RW 01</p>
-<p>5. JARIYAH RT 02 RW 02</p>
-<p>6. ACHMAD JAWADI RT 01 RW 02</p>
-<p>7.PAINEM NY JASRONI RT 03 RW 04</p>
-<p>8. KIDEM RT 03 RW 04</p>
-<p>9. TARYONO RT 03 RW 04</p>
-<p>10. SALKIYAH RT 01 RW 04</p>
-<p>11. KISLAM RT 01 RW 04</p>
-<p>12. RANI CHAERI RT 02 RW 03</p>
-<p>13. SALEM RT 04 RW 03</p>
-<p>14. RAMI ATMADI RT 02 RW 05</p>
-<p>15. SURIP RT 05 RW 05</p>
-<p>16. SOCHEDI RT 01 RW 05</p>
-<p>17. MIRAH RT 04 RW 05</p>
-<p>18. MARKONAH RT 04 RW 05</p>
-<p>19. RAHYUDI RT 04 RW 05</p>
-<p>20. SINAH RT 01 RW 06</p>
+<p>1. .......... RT 01 RW 01</p>
+<p>2. .......... RT 01 RW 01</p>
+<p>3. .......... RT 03 RW 01</p>
+<p>4. .......... RT 03 RW 01</p>
+<p>5. .......... RT 02 RW 02</p>
+<p>6. .......... RT 01 RW 02</p>
+<p>7. .......... RT 03 RW 04</p>
+<p>8. .......... RT 03 RW 04</p>
+<p>9. .......... RT 03 RW 04</p>
+<p>10. ......... RT 01 RW 04</p>
+<p>11. ......... RT 01 RW 04</p>
+<p>12. ......... RT 02 RW 03</p>
+<p>13. ......... RT 04 RW 03</p>
+<p>14. ......... RT 02 RW 05</p>
+<p>15. ......... RT 05 RW 05</p>
+<p>16. ......... RT 01 RW 05</p>
+<p>17. ......... RT 04 RW 05</p>
+<p>18. ......... RT 04 RW 05</p>
+<p>19. ......... RT 04 RW 05</p>
+<p>20. ......... RT 01 RW 06</p>
 		</div>
 	</div>
 	<div class="box box-primary" style="margin-left:.2	5em;">
@@ -175,7 +207,7 @@
 	<div>
 		<ul class="artikel-list artikel-list-in-box">
 				<li class="artikel">
-					<h3 class="judul"><a href="http://gembongan-banjarnegara.desa.id/index.php/first/artikel/198">MUSRENBANGDES RKP TAHUN 2020</a></h3>
+					<h3 class="judul"><a href="http://kampungkita.github.io/index.php/first/artikel/198">MUSRENBANGDES RKP TAHUN 2020</a></h3>
 					
 					<div class="teks">
 						<div class="kecil"><i class="fa fa-clock-o"></i> 04 Oktober 2019 14:57:38 WIB <i class="fa fa-user"></i>  DANITA AGUSTIANA</div>
