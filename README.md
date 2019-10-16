@@ -25,8 +25,8 @@ Licence URI: http://www.os-templates.com/template-terms
         <li><a href="#">Home</a></li>
         <li><a href="#">Contact Us</a></li>
         <li><a href="#">A - Z Index</a></li>
-        <li><a href="#">Student Login</a></li>
-        <li><a href="#">Staff Login</a></li>
+        <li><a href="#">Nama Login</a></li>
+        <li><a href="#">NIK Login</a></li>
       </ul>
     </nav>
     <!-- ################################################################################################ --> 
@@ -66,7 +66,7 @@ Licence URI: http://www.os-templates.com/template-terms
         <li><a class="drop" href="#">Pages</a>
           <ul>
             <li><a href="pages/gallery.html">Gallery</a></li>
-            <li><a href="pages/portfolio.html">Portfolio</a></li>
+            <li><a href="pages/portfolio.html">Penduduk</a></li>
             <li><a href="pages/full-width.html">Full Width</a></li>
             <li><a href="pages/sidebar-left.html">Sidebar Left</a></li>
             <li><a href="pages/sidebar-left-2.html">Sidebar Left 2</a></li>
