@@ -45,7 +45,7 @@
 		<li><a href='http://kampungkita.github.io/index.php/first/artikel/108'>Kelompok Wanita Tani (KWT)</a></li>
 		<li><a href='http://kampungkita.github.io/index.php/first/artikel/107'>Kelompok Tani </a></li>
 		<li><a href='http://kampungkita.github.io/index.php/first/artikel/105'>Karang Taruna</a></li>
-		<li><a href='http://kampungkita.github.io/index.php/first/artikel/173'>Profil Desa/Kelurahan (Prodeskel)</a></li></ul></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/173'>Profil Kampung (ProKam)</a></li></ul></li>			
 		<li><a href='http://kampungkita.github.io/index.php/first/artikel/85'>Pemerintahan</a><ul>
 			<li><a href='http://kampungkita.github.io/index.php/first/artikel/98'>Program Kerja</a></li>
 			<li><a href='http://kampungkita.github.io/index.php/first/artikel/99'>Visi dan Misi</a></li>
@@ -77,7 +77,7 @@
 							</div>
 							<div id="menu_vert2">
 								<script type="text/javascript">
-	sts_bs("JWS",[20080623,"http://gembongan-banjarnegara.desa.id/assets/files/artikel/","","blank.gif",7,1,1,1,"730px","center",0,2,150,90,0,90,1,0,90,2000,2,15,0,"",-2,0],["ItBS","ItBW","ItBC","GBgC","GBgI","GBgR"]);
+	sts_bs("JWS",[20080623,"http://kampungkita.github.io/assets/files/artikel/","","blank.gif",7,1,1,1,"730px","center",0,2,150,90,0,90,1,0,90,2000,2,15,0,"",-2,0],["ItBS","ItBW","ItBC","GBgC","GBgI","GBgR"]);
 	sts_tbd([0],["BS","BW","BC","CnSz","LtCn","RtCn","RbCn","LbCn","TBgC","TBgI","TBgR","RiBgC","RiBgI","RiBgR","BtBgC","BtBgI","BtBgR","LBgC","LBgI","LBgR"]);
 		sts_ai("i0",[1,"","","_self","kecil_1470809665beras-gudang.jpg",146,90,"right"],["ItBgC","OtF","OtFC","OtFD","OvF","OvFC","OvFD"],"i0","i0");
 		sts_ai("i1",[,,,,"kecil_1461123576IMG_20160419_115317[1].jpg",146,90,"right"],[],"i1","i1");
