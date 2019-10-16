@@ -1,18 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title> Website Resmi Desa Gembongan</title>
+		<title> Website Resmi Kampung kita</title>
 		<meta content="utf-8" http-equiv="encoding">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<link rel="shortcut icon" href="http://gembongan-banjarnegara.desa.id/favicon.ico" />
-		<link type='text/css' href="http://gembongan-banjarnegara.desa.id/assets/front/css/first.css" rel='Stylesheet' />
-		<link type='text/css' href="http://gembongan-banjarnegara.desa.id/assets/css/font-awesome.min.css" rel='Stylesheet' />
-		<link type='text/css' href="http://gembongan-banjarnegara.desa.id/assets/css/ui-buttons.css" rel='Stylesheet' />
-		<link type='text/css' href="http://gembongan-banjarnegara.desa.id/assets/front/css/colorbox.css" rel='Stylesheet' />
-		<script src="http://gembongan-banjarnegara.desa.id/assets/front/js/stscode.js"></script>
-		<script src="http://gembongan-banjarnegara.desa.id/assets/front/js/jquery.js"></script>
-		<script src="http://gembongan-banjarnegara.desa.id/assets/front/js/layout.js"></script>
-		<script src="http://gembongan-banjarnegara.desa.id/assets/front/js/jquery.colorbox.js"></script>
+		<link rel="shortcut icon" href="http://kampungkita.github.io" />
+		<link type='text/css' href="http://kampungkita.github.io/assets/front/css/first.css" rel='Stylesheet' />
+		<link type='text/css' href="http://kampungkita.github.io/assets/css/font-awesome.min.css" rel='Stylesheet' />
+		<link type='text/css' href="http://kampungkita.github.io/assets/css/ui-buttons.css" rel='Stylesheet' />
+		<link type='text/css' href="http://kampungkita.github.io/assets/front/css/colorbox.css" rel='Stylesheet' />
+		<script src="http://kampungkita.github.io/assets/front/js/stscode.js"></script>
+		<script src="http://kampungkita.github.io/assets/front/js/jquery.js"></script>
+		<script src="http://kampungkita.github.io/assets/front/js/layout.js"></script>
+		<script src="http://kampungkita.github.io/assets/front/js/jquery.colorbox.js"></script>
 		<script>
 			$(document).ready(function(){
 				$(".group2").colorbox({rel:'group2', transition:"fade"});
@@ -32,7 +32,45 @@
 
 <div id='cssmenu'>
 	<ul id="global-nav" class="top">
-			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/32'>Profil Desa</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/94'>Wilayah Geografis</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/93'>Sejarah</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/95'>Struktur Organisasi</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/97'>Prestasi</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/95'>BPD</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/104'>LP3M</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/106'>PKK</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/165'>Posyandu Balita</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/169'>Posyandu Lansia</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/108'>Kelompok Wanita Tani (KWT)</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/107'>Kelompok Tani </a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/105'>Karang Taruna</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/173'>Profil Desa/Kelurahan (Prodeskel)</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/85'>Pemerintahan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/98'>Program Kerja</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/99'>Visi dan Misi</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/100'>RPJMDes</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/101'>APBDesa</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/102'>RKP Desa</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/82'>Data Monografi</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/15'>Data Wilayah Administratif</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/0'>Data Pendidikan dalam KK</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/17'>Data Pendidikan Ditempuh</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/1'>Data Pekerjaan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/3'>Data Agama</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/4'>Data Jenis Kelamin</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/7'>Data Golongan Darah</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/12'>Data Kelompok Umur</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/statistik/13'>Data Warga Negara</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/109'>Kontak & Pengaduan</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/170'>Admin</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/171'>Email</a></li></ul></li>			<li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/'>Sarana & Prasarana</a><ul><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/162'>Kesehatan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/164'>Kantor Kepala Desa </a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/172'>Ekonomi</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/96'>Pendidikan</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/168'>Olah Raga</a></li><li><a href='http://gembongan-banjarnegara.desa.id/index.php/first/artikel/163'>Keagamaan</a></li></ul></li>		</ul>
+	<li><a href='http://kampungkita.github.io/index.php/first/artikel/32'>Profil Desa</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/94'>Wilayah Geografis</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/93'>Sejarah</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/95'>Struktur Organisasi</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/97'>Prestasi</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/95'>BPD</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/104'>LP3M</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/106'>PKK</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/165'>Posyandu Balita</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/169'>Posyandu Lansia</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/108'>Kelompok Wanita Tani (KWT)</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/107'>Kelompok Tani </a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/105'>Karang Taruna</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/173'>Profil Desa/Kelurahan (Prodeskel)</a></li></ul></li>			
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/85'>Pemerintahan</a><ul>
+			<li><a href='http://kampungkita.github.io/index.php/first/artikel/98'>Program Kerja</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/artikel/99'>Visi dan Misi</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/artikel/100'>RPJMDes</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/artikel/101'>APBDesa</a></li>
+			<li><a href='http://kampungkita.github.io/index.php/first/artikel/102'>RKP Desa</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/artikel/82'>Data Monografi</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/15'>Data Wilayah Administratif</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/0'>Data Pendidikan dalam KK</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/17'>Data Pendidikan Ditempuh</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/1'>Data Pekerjaan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/3'>Data Agama</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/4'>Data Jenis Kelamin</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/7'>Data Golongan Darah</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/12'>Data Kelompok Umur</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/statistik/13'>Data Warga Negara</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/artikel/109'>Kontak & Pengaduan</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/170'>Admin</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/171'>Email</a></li></ul></li>			<li><a href='http://kampungkita.github.io/index.php/first/'>Sarana & Prasarana</a><ul>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/162'>Kesehatan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/164'>Kantor Kepala Desa </a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/172'>Ekonomi</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/96'>Pendidikan</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/168'>Olah Raga</a></li>
+		<li><a href='http://kampungkita.github.io/index.php/first/artikel/163'>Keagamaan</a></li></ul>
+		</li>		
+	</ul>
 </div>
 
 								</div>
